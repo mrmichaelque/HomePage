@@ -87,10 +87,10 @@
   top: 0.5rem;
   overflow: hidden;
 }
-.home 
-.profile
-.projects
-.blog 
+.home, 
+.profile,
+.projects,
+.blog, 
 .sign-out-action-logout-firebase
 {
   color: var(--header-color, #5470ff);
@@ -106,11 +106,11 @@
   transition: transform 0.3s ease, background-color 0.3s ease,
     border-radius 0.3s ease; /* Smooth transition for hover effects */
 }
-.home
-.home 
-.profile
-.projects
-.blog 
+.home,
+.home, 
+.profile,
+.projects,
+.blog, 
 .sign-out-action-logout-firebase:hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
