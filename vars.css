@@ -7,6 +7,7 @@
   --md-text-line-height: normal;
   --md-text-font-weight: 700;
   --md-text-font-style: normal;
-
+     background-size: cover;
+    background-position: center;
   /* Effects */
 }
