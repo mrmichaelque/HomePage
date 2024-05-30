@@ -1,8 +1,11 @@
 .menu-slide-menu-slide,
 .menu-slide-menu-slide * {
   box-sizing: border-box;
+
 }
 .menu-slide-menu-slide {
+  background-size: cover;
+  background-position: center;
   background: #f1f1f1;
   display: flex;
   flex-direction: column;
