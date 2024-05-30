@@ -271,7 +271,7 @@
   font-weight: 800;
   position: relative;
   flex: 1;
-  display: flex;
+  display: cover;
   align-items: center;
   justify-content: center;
 }
