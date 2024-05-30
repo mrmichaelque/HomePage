@@ -134,7 +134,7 @@
   align-items: center;
   justify-content: center;
 }
-.profile: hover {
+.projects: hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
   border-radius: 50px; /* Rounded corners */
