@@ -97,14 +97,12 @@
   align-items: center;
   justify-content: center;
 }
-.home:hover 
-{
+.home: hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
   border-radius: 50px; /* Rounded corners */
 }
-.profile 
-{
+.profile {
   color: var(--header-color, #5470ff);
   text-align: center;
   font-family: var(--md-text-font-family, "Lato-Bold", sans-serif);
@@ -115,14 +113,12 @@
   align-items: center;
   justify-content: center;
 }
-.profile:hover 
-{
+.Profile: hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
   border-radius: 50px; /* Rounded corners */
 }
-.projects 
-{
+.projects {
   color: var(--header-color, #5470ff);
   text-align: center;
   font-family: var(--md-text-font-family, "Lato-Bold", sans-serif);
@@ -133,19 +129,12 @@
   align-items: center;
   justify-content: center;
 }
-.profile:hover 
-{
+.profile: hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
   border-radius: 50px; /* Rounded corners */
 }
-.projects:hover,
-  transform: scale(0.95); /* Slightly zoom out */
-  background-color: #9c8ce3; /* Change color to blue */
-  border-radius: 50px; /* Rounded corners */
-}
-.blog 
-{
+.blog {
   color: var(--header-color, #5470ff);
   text-align: center;
   font-family: var(--md-text-font-family, "Lato-Bold", sans-serif);
@@ -156,14 +145,12 @@
   align-items: center;
   justify-content: center;
   }
-.blog:hover 
-{
+.blog: hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
   border-radius: 50px; /* Rounded corners */
 }
-.sign-out-action-logout-firebase:hover 
-{
+.sign-out-action-logout-firebase: hover {
   transform: scale(0.95); /* Slightly zoom out */
   background-color: #9c8ce3; /* Change color to blue */
   border-radius: 50px; /* Rounded corners */
