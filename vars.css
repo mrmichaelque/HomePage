@@ -2,12 +2,9 @@
 :root {
   /* Colors */
   /* Fonts */
-  --md-text-font-family: Lato-Bold, sans-serif;
+  --md-text-font-family: 'Lato-Bold', sans-serif;
   --md-text-font-size: 18px;
-  --md-text-line-height: normal;
+  --md-text-line-height: 1.5; /* Adjusted for better vertical alignment */
   --md-text-font-weight: 700;
   --md-text-font-style: normal;
-     background-size: cover;
-    background-position: center;
-  /* Effects */
 }
